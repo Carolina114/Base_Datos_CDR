@@ -1,0 +1,14 @@
+2024-12-17 15:01:00,095 - No se requiere limpieza de registros.
+2024-12-17 15:05:11,386 - No se requiere limpieza de registros.
+2024-12-17 15:08:51,427 - No se requiere limpieza de registros.
+2024-12-17 15:09:20,626 - No se requiere limpieza de registros.
+2024-12-17 15:39:50,651 - No se requiere limpieza de registros.
+2024-12-17 16:47:00,213 - Registros del mes Aug 08, 24 eliminados exitosamente.
+2024-12-17 17:01:23,134 - Error en la limpieza de registros: ('42000', "[42000] [Microsoft][ODBC Driver 18 for SQL Server][SQL Server]'LPAD' is not a recognized built-in function name. (195) (SQLExecDirectW)")
+2024-12-17 17:02:49,326 - Registros del mes 2024-08 eliminados exitosamente. Total eliminados: 3.
+2024-12-17 17:04:54,359 - No se requiere limpieza de registros.
+2024-12-17 17:06:50,297 - No se requiere limpieza de registros.
+2024-12-17 17:08:24,571 - No se requiere limpieza de registros.
+2024-12-17 17:18:34,796 - No se requiere limpieza de registros.
+2024-12-17 17:20:08,489 - No se requiere limpieza de registros.
+2024-12-17 17:42:18,283 - No se requiere limpieza de registros.
